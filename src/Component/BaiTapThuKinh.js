@@ -41,7 +41,7 @@ export default class BaiTapThuKinh extends Component {
 			to {
 				width: 150px;
 				transform: rotate(0deg);
-				opacity: 0.65;
+				opacity: 0.65;git
 			}
 		}`;
 		const styleGlasses = {
